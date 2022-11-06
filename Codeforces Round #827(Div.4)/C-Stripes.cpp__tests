@@ -1,0 +1,17 @@
+[
+	{
+		"test": "4\n\n\n....B...\n....B...\n....B...\nRRRRRRRR\n....B...\n....B...\n....B...\n....B...\n\n\nRRRRRRRB\nB......B\nB......B\nB......B\nB......B\nB......B\nB......B\nRRRRRRRB\n\n\nRRRRRRBB\n.B.B..BB\nRRRRRRBB\n.B.B..BB\n.B.B..BB\nRRRRRRBB\n.B.B..BB\n.B.B..BB\n\n\n........\n........\n........\nRRRRRRRR\n........\n........\n........\n........"
+	},
+	{
+		"test": "1\n....B...\n....B...\n....B...\nRRRRRRRR\n....B...\n....B...\n....B...\n....B..."
+	},
+	{
+		"test": "1\nRRRRRRRB\nB......B\nB......B\nB......B\nB......B\nB......B\nB......B\nRRRRRRRB"
+	},
+	{
+		"test": "1\nRRRRRRBB\n.B.B..BB\nRRRRRRBB\n.B.B..BB\n.B.B..BB\nRRRRRRBB\n.B.B..BB\n.B.B..BB"
+	},
+	{
+		"test": "1\n........\n........\n........\nRRRRRRRR\n........\n........\n........\n........"
+	}
+]
