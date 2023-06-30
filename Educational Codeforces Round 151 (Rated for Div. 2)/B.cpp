@@ -9,7 +9,7 @@
 */
 /**
  * xavierbeast68
- * URL : Problem_URL
+ * URL : https://codeforces.com/contest/1845/problem/B
  * AVOIDING COMPLEXITY, REDUCES BUGS.
  */
 
@@ -255,8 +255,26 @@ int dy[] = { 1,0,-1,0 };
 
 */
 
+int cal(int a, int b, int c){
+    if(a > b && a > c){
+        return a - max(b, c);
+    }
+    else if(a < b && a < c){
+        return min(b, c) - a;
+    }
+    else{
+        return 0;
+    }
+}
+
 void solve(){
     //--Let's Code--
+    readInt(xa);readInt(ya);
+    readInt(xb);readInt(yb);
+    readInt(xc);readInt(yc);
+
+    // common horizontal manhattan distance + common vertical manhattan distance + 1
+    println(cal(xa, xb, xc) + cal(ya, yb, yc) + 1);
 }
 
 
@@ -273,7 +291,7 @@ signed main(){
 
     //testcases=1: default value for single test case
     int testcases = 1;
-    // cin >> testcases;
+    cin >> testcases;
     while (testcases--){
         solve();
     }
