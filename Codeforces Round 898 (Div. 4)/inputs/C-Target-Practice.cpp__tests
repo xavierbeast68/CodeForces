@@ -1,0 +1,8 @@
+[
+	{
+		"test": "4\nX.........\n..........\n.......X..\n.....X....\n......X...\n..........\n.........X\n..X.......\n..........\n.........X\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n..........\n....X.....\n..........\n..........\n..........\n..........\n..........\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\n"
+	},
+	{
+		"test": "1\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX\nXXXXXXXXXX"
+	}
+]
